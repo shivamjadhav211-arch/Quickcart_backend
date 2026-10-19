@@ -1,0 +1,19 @@
+[
+  {
+    "orderId": "QC1792330356716",
+    "customerName": "s",
+    "mobile": "1234567890",
+    "address": "1, 221, PIN: 123456",
+    "items": [
+      {
+        "name": "Fresh Apples",
+        "price": 120,
+        "quantity": 1
+      }
+    ],
+    "total": 120,
+    "paymentMethod": "cod",
+    "status": "Placed",
+    "createdAt": "2026-10-18T13:32:36.717Z"
+  }
+]
